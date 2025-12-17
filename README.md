@@ -35,9 +35,10 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/harish-sivagnanamoorthy/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harish-sivagnanamoorthy/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Sivaharish12)
+
 
 ---
 
-⭐ *Consistency beats talent — building every day*
+⭐ *Consistency turns effort into excellence.*
