@@ -1,6 +1,6 @@
-# Hi 👋 I'm Sivaharish 🚀
+# Hi 👋 I'm Harish 🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Software+Development+Engineer;Backend+Developer;Python+%7C+PostgreSQL;Learning+DSA+%26+System+Design)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Software+Development+Engineer;Python+Backend+Engineer;PostgreSQL+%7C+AWS;Designing+Reliable+Systems)
 
 💻 **Software Development Engineer**  
 ⚙️ Backend-focused engineer passionate about performance, scalability, and security  
@@ -16,11 +16,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Sivaharish12 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivaharish12&show_icons=true&theme=tokyonight)
 
 ---
 
